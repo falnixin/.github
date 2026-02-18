@@ -29,10 +29,14 @@ Containerized deployments using Docker, CI/CD pipelines, and AWS-based infrastru
 ### Frontend
 - Angular
 - React
+-Nextjs
 
 ### Backend
 - .NET / ASP.NET Core
 - Node.js
+- Java
+- Rust
+- Python
 
 ### Databases
 - PostgreSQL
